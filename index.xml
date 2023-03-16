@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <readme>
+    <en>a6fae8c254d0e0f5b31ac7c1d3e2b14cd89751101657861ac391090bb304e25c</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>chromaticmajor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,92,2,93,3,4,95,5,96,6,97,7,18"/>
+      <note number="2" values="1,92,2,93,3,4,95,5,96,6,97,7,18"/>
+      <note number="3" values="1,92,2,93,3,4,95,5,96,6,97,7,18"/>
+      <note number="4" values="1,92,2,93,3,4,95,5,96,6,97,7,18"/>
+    </notes>
+  </exercise>
+</level>
